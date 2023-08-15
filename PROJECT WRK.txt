@@ -11,7 +11,7 @@ LEVEL :100
 C++ CGPA Calculator Code
 
 
-I'm a CS Student and I've coded a program to compute Grade Point Average (a metric used in the US for a student's performance across the curriculum). I'm looking for your suggestions and comments for my code.
+I'm a IT's Student and I've coded a program to compute Grade Point Average (a metric used in the US for a student's performance across the curriculum). I'm looking for your suggestions and comments for my code.
 
 I used sentinel controlled loop and for loop. Is there any way for improvement??
 
